@@ -1,6 +1,6 @@
 # quickbase-textmate
 
-A command line tool that automates creation to TextMate grammar for use with VS Code. The goal is to make it easier to maintain extentions like the one at https://github.com/jdklub/vscode-quickbase-formula.
+A command line tool that automates the creation of a TextMate grammar for Quickbase formulae. The primary goal is to make it easier to maintain IDE extentions like the one at https://github.com/jdklub/vscode-quickbase-formula for VS Code.
 
 ## Installation
 
